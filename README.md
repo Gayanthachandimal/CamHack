@@ -1,4 +1,5 @@
 # CamHack
 
 CamHack.py
-README.md
+CamHack.sh
+repository 
